@@ -1,4 +1,4 @@
-![Kalico.gif](https://github.com/samjsolomon/Earring-Website/blob/master/Kalico.gif)
+![jellyfish-backgound.gif](https://github.com/samjsolomon/Gif-background-Website/blob/master/jellyfish-background.gif)
 
 ## Available Scripts
 
