@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.about{
+  text-align: center;
+  background-color: grey;
+  display: inline-block;
+  margin-top: 60px;
+  opacity: 89%;
+  width: 500px;
+  height: 600px;
+  
+}
+
+.contact{
+  color: gray;
+  opacity: 95%;
+  margin-bottom: 25px; 
+  text-align: center;
+  margin: 30px 30%
+}
+.red{
+  color:red;
+  }
+.form-area
+{
+  background-color: #FAFAFA;
+padding: 10px 40px 60px;
+margin: 10px 0px 60px;
+border: 1px solid GREY;
+}
+
+
