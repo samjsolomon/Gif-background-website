@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Kalico.gif](https://github.com/samjsolomon/Earring-Website/blob/master/Kalico.gif)
 
 ## Available Scripts
 
