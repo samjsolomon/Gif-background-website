@@ -11,7 +11,7 @@
   background-color: grey;
   display: inline-block;
   margin-top: 60px;
-  opacity: 95%;
+  opacity: .9;
   width: 500px;
   height: 600px;
   
@@ -19,7 +19,7 @@
 
 .contact{
   color: gray;
-  opacity: 95%;
+  opacity: .9;
   margin-bottom: 25px; 
   text-align: center;
   margin: 30px 30%
